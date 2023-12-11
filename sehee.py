@@ -1,1 +1,2 @@
-print('good')
+print('good good') 
+print('aa')
